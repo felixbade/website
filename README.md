@@ -3,7 +3,7 @@ An open source website repository for Hacktober. The purpose of this repository 
 
 ## Context
 - https://blog.domenic.me/hacktoberfest/
-- https://youtu.be/v9902nonYas
+- https://youtu.be/v9902nonYas (Video no longer available. Set to private)
 
 ## Quick start
 
