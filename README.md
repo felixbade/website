@@ -5,6 +5,12 @@ An open source website repository for Hacktober. The purpose of this repository 
 - https://blog.domenic.me/hacktoberfest/
 - https://youtu.be/v9902nonYas
 
+## Core features
+* Rapidiously recaptiualize emerging models
+* Monotonectally target elastic web services
+* Competently administrate multidisciplinary storage
+* Phosfluorescently whiteboard user-centric technology
+
 ## Quick start
 
 Several quick start options are available:
